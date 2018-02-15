@@ -1,0 +1,30 @@
+{
+  "name": "iterate-it",
+  "version": "0.0.0",
+  "description": "A handy function with a unified interface to iterate Strings, Arrays, TypedArrays, Maps, Sets, (any Iterables) & Objects.",
+  "license": "MIT",
+  "author": "Alrik Zachert <alrik.zachert@gmail.com>",
+  "keywords": [
+    "iterable",
+    "iterate",
+    "iterator",
+    "utility",
+    "map",
+    "set",
+    "array",
+    "string",
+    "object",
+    "array-iterator",
+    "object-iterator",
+    "map-iterator",
+    "set-iterator",
+    "string-iterator"
+  ],
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/alrik/iterate-javascript/issues"
+  },
+  "repository": {
+    "url": "https://github.com/alrik/iterate-javascript"
+  }
+}
