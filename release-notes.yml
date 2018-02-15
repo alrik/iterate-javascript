@@ -5,6 +5,10 @@ description: |
   with the advantage of **iterating almost everything** and **iteration skipping**.
   https://github.com/alrik/iterate-javascript
 releases:
+- version: 0.1.1
+  date: 2018-02-15
+  fixed:
+  - Badge linkage on npm.
 - version: 0.1.0
   date: 2018-02-15
   title: Initial Release
