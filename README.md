@@ -1,5 +1,7 @@
 # iterate-javascript
 
+[![Subscribe to Release Notes](https://release-notes.com/badges/v1.svg)](https://release-notes.com/@alrik/iterate-javascript)
+
 A handy function with a **unified interface** to iterate Strings, Arrays, TypedArrays, Maps, Sets, (any Iterables) & Objects.
 The api is oriented on [Array.prototype.forEach](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 with the advantage of **iterating almost everything** and **iteration skipping**.
