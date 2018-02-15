@@ -1,6 +1,8 @@
 # iterate-javascript
 
 [![Subscribe to Release Notes](https://release-notes.com/badges/v1.svg)](https://release-notes.com/@alrik/iterate-javascript)
+[![NPM Package](https://img.shields.io/npm/v/iterate-it.svg)](https://www.npmjs.com/package/iterate-it)
+[![MIT license](https://img.shields.io/github/license/alrik/iterate-javascript.svg)](LICENSE)
 
 A handy function with a **unified interface** to iterate Strings, Arrays, TypedArrays, Maps, Sets, (any Iterables) & Objects.
 The api is oriented on [Array.prototype.forEach](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
@@ -125,3 +127,10 @@ console.log(complete === true)
 // 2
 // false
 ```
+
+---
+
+### LICENSE
+
+The files in this archive are released under MIT license.
+You can find a copy of this license in [LICENSE](LICENSE).
