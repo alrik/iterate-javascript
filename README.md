@@ -1,7 +1,7 @@
 # iterate-javascript
 
 [![Subscribe to Release Notes](https://release-notes.com/badges/v1.svg)](https://release-notes.com/@alrik/iterate-javascript)
-[![NPM Package](https://img.shields.io/npm/v/iterate-it.svg)](https://www.npmjs.com/package/iterate-it)
+[![NPM Package](https://img.shields.io/npm/v/@a-z/iterate-it.svg)](https://www.npmjs.com/package/@a-z/iterate-it)
 [![MIT license](https://img.shields.io/github/license/alrik/iterate-javascript.svg)](LICENSE)
 
 A handy function with a **unified interface** to iterate Strings, Arrays, TypedArrays, Maps, Sets, (any Iterables) & Objects.
@@ -11,19 +11,19 @@ with the advantage of **iterating almost everything** and **iteration skipping**
 ## Installation
 
 ```bash
-$ yarn add iterate-it
+$ yarn add @a-z/iterate-it
 # or
-$ npm i -S iterate-it
+$ npm i -S @a-z/iterate-it
 ```
 
 ## Usage
 
-The module `itarate-it` exports a single function that takes to parameters; an iterable and a callback.
+The module `@a-z/itarate-it` exports a single function that takes to parameters; an iterable and a callback.
 The `iterate` function returns a iteration result, that indicates if the iteration was complete of has been skipped.
 
 
 ```js
-const iterate = require('iterate-it');
+const iterate = require('@a-z/iterate-it');
 const { complete } = iterate(iterable, callback);
 ```
 
